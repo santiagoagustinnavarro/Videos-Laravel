@@ -1,0 +1,37 @@
+
+.video-image-mask{
+    width:105px;
+    height:100px;
+    overflow:hidden;
+}
+
+.video-image-mask .video-image{
+    width:100%;
+    padding-left:0px;
+    
+    
+}
+
+#video-list .card-body{
+    padding-left:0px;
+    margin-left:0px;
+}
+.data{
+    width:100%;
+    
+}
+
+.video-title{
+    font-weight:bold;
+    font-size:20px;
+}
+
+.video-title a{
+    color:#444;
+    font-size:18px;
+}
+
+.btn-filter{
+    display:block;
+    margin-top:5px;
+}
